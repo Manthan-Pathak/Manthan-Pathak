@@ -35,5 +35,5 @@
  
 <a href="https://www.linkedin.com/in/manthan-pathak/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:pathak22mp@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/i.manthan.pathak/"><img src="https://img.shields.io/badge/i.manthan.pathak-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/i.manthan.pathak/"><img src="https://img.shields.io/badge/i.manthan.pathak-E4405F?style=flat&logo=instagram&logoColor=white"/></a> &nbsp;
 
