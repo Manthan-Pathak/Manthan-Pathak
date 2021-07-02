@@ -1,7 +1,6 @@
 
 <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Folks !</h2>
 <br/>
-<br/>
 
 
 <h2>👨🏻‍💻  About Me </h2>
@@ -17,6 +16,7 @@
 
 <h2>🛠 Tech Stack</h2>
 
+![SQL]()
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -35,5 +35,5 @@
  
 <a href="https://www.linkedin.com/in/manthan-pathak/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:pathak22mp@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/i.manthan.pathak/"><img src="https://img.shields.io/badge/-@i.manthan.pathak?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/i.manthan.pathak/"><img src="https://img.shields.io/badge/i.manthan.pathak-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
 
