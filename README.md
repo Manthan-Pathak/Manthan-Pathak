@@ -8,7 +8,7 @@
 - 👀 I'm a web developer and worked in many technologies.
 - 🎓  I'm currently studying MCA from MIT - World Peace University, Pune. (2020-2022).
 - 🌱 I'm on track to learn more about web development and becoming a full stack developer.
-- ✍️  In my free time, I play PC Games, and i have creative arts as my hobbies.
+- ✍️  In my free time, I play FPS Games, and i have creative arts as my hobbies.
 - 📫 You can email me at pathak22mp@gmail.com.
 - 📄  You can check my [Resume](https://drive.google.com/file/d/1-l1kfF9lYcGDJcntNRmTOStr88oNj4yO/view?usp=sharing "Resume") for more details.
 <br/>
