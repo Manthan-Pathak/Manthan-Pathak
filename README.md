@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Folks !</h2>
 <br/>
@@ -8,11 +7,11 @@
 <h2>👨🏻‍💻  About Me </h2>
 
 - 👀 I'm a web developer and worked in many technologies.
-- 🎓  I'm currently studying M.sc.IT from Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar (2020-2022).
-- 🌱 I'm on track for learning more about web development and become full stack developer.
-- ✍️  In my free time, I play PC Games, Badminton as my hobbies.
-- 📫 You can email me at azaveri07@gmail.com. I'll try to respond as soon as possible!
-- 📄  You can check my [Resume](https://drive.google.com/file/d/1AqK8RLsGiFnhrusQRirqE4moR4FfNxP1/view?usp=sharing "Resume") for more details.
+- 🎓  I'm currently studying MCA from MIT - World Peace University, Pune. (2020-2022).
+- 🌱 I'm on track to learn more about web development and becoming a full stack developer.
+- ✍️  In my free time, I play PC Games, and i have creative arts as my hobbies.
+- 📫 You can email me at pathak22mp@gmail.com.
+- 📄  You can check my [Resume](https://drive.google.com/file/d/1-l1kfF9lYcGDJcntNRmTOStr88oNj4yO/view?usp=sharing "Resume") for more details.
 <br/>
 <br/>
 
@@ -34,7 +33,7 @@
 
 <h2>📫  How to reach me:</h2>
  
-<a href="https://www.linkedin.com/in/aaftab-zaveri-393a741b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:azaveri07@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/aaftab_zaveri/"><img src="https://img.shields.io/badge/-@aaftab_zaveri_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/manthan-pathak/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:pathak22mp@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.instagram.com/i.manthan.pathak/"><img src="https://img.shields.io/badge/-@i.manthan.pathak?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
